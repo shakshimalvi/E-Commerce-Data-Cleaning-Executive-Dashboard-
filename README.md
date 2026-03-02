@@ -43,15 +43,5 @@ Moderate discounts positively influence revenue, but higher discounts do not alw
 
 Sales show seasonal trends with noticeable monthly fluctuations.
 
-🎨 Dashboard Design Standards Followed
-
-Clean and professional layout
-
-Consistent color theme (maximum 3 primary colors)
-
-Proper alignment and spacing
-
-Business-focused visual storytelling
-
 
 #PowerBI #DataAnalytics #BusinessIntelligence #DashboardDesign #PowerQuery #DAX #EcommerceAnalytics
